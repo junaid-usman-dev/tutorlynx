@@ -1,0 +1,30 @@
+
+
+#error_username
+{
+    display: none;
+}
+#error_email
+{
+    display: none;
+}
+/* #success
+{
+    display: none;
+} */
+#error
+{
+    display: none;
+}
+#error_empty
+{
+    display: none;
+}
+#error_name
+{
+    display: none;
+}
+#error_pwd
+{
+    display: none;
+}

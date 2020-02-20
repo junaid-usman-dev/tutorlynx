@@ -1,0 +1,28 @@
+
+-----------------------------------------------------------------
+-   List of all student session keys                                    -
+-----------------------------------------------------------------
+
+
+session_student_id =>----- store user ID
+session_student_email =>----- store user email address
+session_student_phone =>----- store user phone number
+session_student_type =>----- store user type
+
+
+-----------------------------------------------------------------
+-   List of all tutor session keys                                    -
+-----------------------------------------------------------------
+
+
+session_tutor_id =>----- store user ID
+session_tutor_email =>----- store user email address
+session_tutor_phone =>----- store user phone number
+session_tutor_type =>----- store user type
+
+
+-----------------------------------------------------------------
+-  List of all admin session keys                                    -
+-----------------------------------------------------------------
+session_admin_id =>----- store user ID
+session_admin_email =>----- store user email address
